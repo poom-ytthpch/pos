@@ -6,3 +6,7 @@
 	path = server/product
 	url = https://github.com/poom-ytthpch/pos_server_product.git
 	branch = main
+[submodule "client"]
+	path = client
+	url = https://github.com/poom-ytthpch/pos_client.git
+	branch = main
