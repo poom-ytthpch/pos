@@ -2,3 +2,7 @@
 	path = server/auth
 	url = https://github.com/poom-ytthpch/pos_server_auth.git
 	branch = main
+[submodule "server/product"]
+	path = server/product
+	url = https://github.com/poom-ytthpch/pos_server_product.git
+	branch = main
