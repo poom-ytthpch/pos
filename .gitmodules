@@ -1,0 +1,4 @@
+[submodule "server/auth"]
+	path = server/auth
+	url = https://github.com/poom-ytthpch/pos_server_auth.git
+	branch = main
