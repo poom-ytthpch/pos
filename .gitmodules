@@ -10,3 +10,7 @@
 	path = client
 	url = https://github.com/poom-ytthpch/pos_client.git
 	branch = main
+[submodule "server/gateway"]
+	path = server/gateway
+	url = https://github.com/poom-ytthpch/pos_server_gateway.git
+	branch = main
